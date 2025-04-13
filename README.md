@@ -1,5 +1,5 @@
 # Project 1: Predicting Annual U.S. Business Applications by GDP 
-The default branch is the latest released code along with data inputs to predict U.S. business applications. <br/><br/>
+The default branch is the latest released code along with data inputs to predict U.S. business applications. You can see more about this from my blogpost: https://medium.com/@joe.kofman/small-businesses-are-huge-933215d59185 <br/><br/>
 
 ## Table of Contents:
 1. Installations <br/>
@@ -9,10 +9,13 @@ The default branch is the latest released code along with data inputs to predict
 5. Licensing, Authors, Acknowledgements, etc. <br/><br/>
 
 ## Installations:
-Numpy <br/>
-Pandas <br/>
-Sklearn <br/>
-Matplotlib <br/> <br/>
+This code runs with any Python version 3.* and requires a few installations.
+You may install these libraries by executing the following statement: pip install -r requirements.txt <br/>
+Numpy==2.2.0 <br/>
+Pandas==2.2.3 <br/>
+Sklearn==1.6.1 <br/>
+Matplotlib==3.10.1 <br/>
+Xlrd==2.0.1 <br/> <br/>
 
 ## Project Motivation:
 Small businesses are very important to the U.S. economy and are most sensitive to economic changes. I wanted to investigate how growth and health of the U.S. economy impacted business growth at the national scale and chose to look at business applications and GDP.
